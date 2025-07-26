@@ -7,6 +7,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayush03b/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ayush03b/leetcode/tree/master/0015-3sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush03b/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/ayush03b/leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayush03b/leetcode/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush03b/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
